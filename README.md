@@ -1,0 +1,1 @@
+This repository contains a simple C++ program demonstrating a common off-by-one error.  The error occurs when iterating through a `std::vector` using a `for` loop.  The provided solution corrects the loop condition to prevent out-of-bounds access. This is a classic example of how a seemingly small error can lead to unexpected behavior and crashes.
